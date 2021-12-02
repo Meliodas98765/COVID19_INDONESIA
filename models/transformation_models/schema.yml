@@ -1,0 +1,28 @@
+
+version: 2
+
+models:
+    - name: req_cols
+      description: "extracting required columns from the dataset"
+      columns:
+          - name: id
+            tests:
+                - unique
+                - not_null
+
+    - name: covid_by_date
+      description: "first model"
+      columns:
+          - name: id
+            description: "The primary key for this table"
+            tests:
+                - unique
+                - not_null
+    
+    - name: covid_by_province
+      description: "second model"
+      columns:
+          - name: id
+            tests:
+                - unique
+                - not_null
