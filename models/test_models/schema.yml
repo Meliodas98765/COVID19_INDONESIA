@@ -1,0 +1,11 @@
+
+version: 2
+
+models:
+    - name: test_model
+      description: "test for configuration of dbt"
+      columns:
+          - name: id
+            tests:
+                - unique
+                - not_null
