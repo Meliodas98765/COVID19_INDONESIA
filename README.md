@@ -1,7 +1,8 @@
 Welcome to the dbt project.
 
+[Untitled_Report.pdf](https://github.com/Meliodas98765/COVID19_INDONESIA/files/7725266/Untitled_Report.pdf)
 
-<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/6ea6e2bf-2c15-4784-b6d7-5cf5a9051a25/page/PZugC" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 
 
 https://datastudio.google.com/reporting/6ea6e2bf-2c15-4784-b6d7-5cf5a9051a25
